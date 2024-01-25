@@ -1,0 +1,3 @@
+# Ignore any powerpoint slides - instead upload PDFs and include GDrive links
+*.ppt
+*.pptx
