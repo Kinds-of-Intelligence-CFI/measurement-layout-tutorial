@@ -12,17 +12,23 @@ Recent years have witnessed an explosion in the general-purpose capabilities of 
 
 ## Introduction (*15 Minutes*)
 
+**Time**: 14:00 - 14:15
+
 **Presenter**: J. Burden, J. Hernández-Orallo, M. Tešić, K. Voudouris
 
 This short opening will consist of the Lab team introducing themselves to the participants. We will likewise encourage participants to introduce themselves and their research interests to the rest of the Lab attendees. The agenda and goals of the lab will be briefly explained.
 
 ## Motivating Capability-Oriented Evaluation (*20 Minutes*)
 
+**Time**: 14:15 - 14:35
+
 **Presenter**: J. Hernández-Orallo
 
 This session will establish the motivation for what we refer to as capability-oriented evaluation. We will begin with a discussion of the limitations of current AI evaluation practices, especially for changing distributions and general-purpose AI.  We will identify robust experimental practices from the cognitive sciences that can address the shortcomings of AI evaluation. Specifically, we will frame task performance as a function of task demands and system capabilities. This framing, when combined with appropriate domain knowledge regarding the requirements for success within a task, allows us to estimate actual capabilities that are independent of the distribution of the task's test-set. This requires two inferences, a backwards estimation of the capabilities from test results and task demands, and a forwards inference of predicted performance from the capabilities and the demands of new tasks. 
 
 ## The Measurement Layout Framework in PyMC (*50 minutes*)
+
+**Time**: 14:35 - 15:25
 
 **Presenter**: J. Burden
 
@@ -32,7 +38,13 @@ We will explain how to leverage hierarchical Bayesian models to express the meas
 
 Participants will then have the opportunity to apply the framework themselves to the scenario of an agent navigation task in a 3D environment. They will be provided with experimental data containing the results of various agents attempting to complete the navigation task and will be tasked with inferring the capabilities and biases of each agent. To successfully accomplish this, participants will need to construct a measurement layout in PyMC using the techniques and methodologies outlined earlier in the session. To guide participants through this process, we will provide a Google Colab template that will handle the more routine aspects of data wrangling and offer a structured approach to the task. The task and experimental data will be designed to allow for success at various levels, with multiple ways of applying the layout that will yield differing levels of certainty regarding the agents' capabilities. We invite participants to collaborate and share measurement layout structures that they find effective or intuitive.
 
-## Designing Good Benchmarks (*30 minutes*)
+## Break
+
+**Time**: 15:30 - 16:00
+
+## Designing Good Benchmarks (*55 minutes*)
+
+**Time**: 16:00 - 16:55
 
 **Presenter**: K. Voudouris
 
@@ -45,7 +57,9 @@ Second, we will introduce the notions of internal and construct validity as key 
 Finally, we will show participants how to formalise task demands in the design of a benchmark. For our example, we demonstrate how task demands were defined according to their relevance to the capability of interest, object permanence, against the background of existing theory in cognitive science. Through the iteration of defining task demands and designing a measurement layout, nuanced and robust evaluations can be made about the capabilities of AI systems.
 Participants will be encouraged to consider and discuss how the concepts raised in this session can be applied to evaluate other complex capabilities.
 
-## Learning The Capabilities of the Large Language Models in the Context of Human Workforce (*45 Minutes*)
+## Learning The Capabilities of Large Language Models (*35 Minutes*)
+
+**Time**: 16:55 - 17:30
 
 **Presenter**: M. Tešić
 
@@ -55,7 +69,9 @@ Building upon the material covered in the previous session, this session will pr
 
 Participants will be encouraged to consider and discuss the trade-offs of the capability-oriented %demand-oriented evaluation approach, especially concerning the assessment of LLM capabilities using performance data from existing benchmarks and human workforce demands. Some key questions include whether current benchmarks adequately and effectively guide the estimation of LLM capabilities, and whether these translate meaningfully into predicted performance in complex and dynamic ``real world'' applications. Participants will also be encouraged to deliberate on the applicability of the capability-oriented approach to their own work.
 
-## Group Discussions (*20 Minutes*)
+## Group Discussions (*30 Minutes*)
+
+**Time**: 17:30 - 18:00
 
 **Presenter**: J. Hernández-Orallo
 
