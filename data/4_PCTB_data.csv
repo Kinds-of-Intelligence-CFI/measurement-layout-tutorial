@@ -547,6 +547,6 @@ OP-STC-Allo-PCTB-8CupGridMidFar-G2FarLeftClose-NA-0-NA.yml,0,1,2,-1.5,1,42,1,8,0
 OP-STC-Allo-PCTB-8CupGridMidFar-G2FarLeftFar-NA-0-NA.yml,0,1,2,-1.5,1,47,2,8,0,0,0,0,0,0
 OP-STC-Allo-PCTB-8CupGridMidFar-G2FarRightClose-NA-0-NA.yml,0,1,2,1.5,1,40,1,8,0,0,0,0,0,0
 OP-STC-Allo-PCTB-8CupGridMidFar-G2FarRightFar-NA-0-NA.yml,0,1,2,1.5,1,45,2,8,0,0,0,0,0,0
-tutorial_0_ready-G2-sanity_timelimit.yml,1,0,2,0,0,28,0,8,0,1,1,0,0,0
-tutorial_3_3choicecylinder-G1.5-left_timelimit.yml,1,0,1.5,-1,0,16,1,8,0,1,1,0,1,0
-tutorial_4_3choicecylinder-G1.5-right_timelimit.yml,1,0,1.5,1,0,16,1,8,0,1,1,0,0,1
+tutorial_0_ready-G2-sanity_timelimit.yml,1,0,2,0,0,28,0,1,0,1,1,0,0,0
+tutorial_3_3choicecylinder-G1.5-left_timelimit.yml,1,0,1.5,-1,0,16,1,1,0,1,1,0,1,0
+tutorial_4_3choicecylinder-G1.5-right_timelimit.yml,1,0,1.5,1,0,16,1,1,0,1,1,0,0,1
