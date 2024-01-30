@@ -466,7 +466,7 @@ OP-STC-Allo-PCTB-8CupGridCloseFar-G1.5CloseRightFar-NA-0-NA.yml,0,1,1.5,0.5,1,37
 OP-STC-Allo-PCTB-8CupGridCloseFar-G1.5FarLeftClose-NA-0-NA.yml,0,1,1.5,-1.5,1,37,1,8,0,0,0,0,0,0
 OP-STC-Allo-PCTB-8CupGridCloseFar-G1.5FarLeftFar-NA-0-NA.yml,0,1,1.5,-1.5,1,47,2,8,0,0,0,0,0,0
 OP-STC-Allo-PCTB-8CupGridCloseFar-G1.5FarRightClose-NA-0-NA.yml,0,1,1.5,1.5,1,35,1,8,0,0,0,0,0,0
-OP-STC-Allo-PCTB-8CupGridCloseFar-G1.5FarRightFar-NA-0-NA.yml,0,1,1.5,1.5,1,45,2,8,1,0,0,0,0,0
+OP-STC-Allo-PCTB-8CupGridCloseFar-G1.5FarRightFar-NA-0-NA.yml,0,1,1.5,1.5,1,45,2,8,0,0,0,0,0,0
 OP-STC-Allo-PCTB-8CupGridCloseFar-G1CloseLeftClose-NA-0-NA.yml,0,1,1,-0.5,1,29,1,8,0,0,0,0,0,0
 OP-STC-Allo-PCTB-8CupGridCloseFar-G1CloseLeftFar-NA-0-NA.yml,0,1,1,-0.5,1,39,1,8,0,0,0,0,0,0
 OP-STC-Allo-PCTB-8CupGridCloseFar-G1CloseRightClose-NA-0-NA.yml,0,1,1,0.5,1,27,1,8,0,0,1,0,0,0
@@ -476,7 +476,7 @@ OP-STC-Allo-PCTB-8CupGridCloseFar-G1FarLeftFar-NA-0-NA.yml,0,1,1,-1.5,1,47,2,8,0
 OP-STC-Allo-PCTB-8CupGridCloseFar-G1FarRightClose-NA-0-NA.yml,0,1,1,1.5,1,35,1,8,1,0,0,0,0,0
 OP-STC-Allo-PCTB-8CupGridCloseFar-G1FarRightFar-NA-0-NA.yml,0,1,1,1.5,1,45,2,8,0,0,0,0,0,0
 OP-STC-Allo-PCTB-8CupGridCloseFar-G2CloseLeftClose-NA-0-NA.yml,0,1,2,-0.5,1,29,1,8,0,0,0,0,0,0
-OP-STC-Allo-PCTB-8CupGridCloseFar-G2CloseLeftFar-NA-0-NA.yml,0,1,2,-0.5,1,39,1,8,1,0,0,0,0,0
+OP-STC-Allo-PCTB-8CupGridCloseFar-G2CloseLeftFar-NA-0-NA.yml,0,1,2,-0.5,1,39,1,8,0,0,0,0,0,0
 OP-STC-Allo-PCTB-8CupGridCloseFar-G2CloseRightClose-NA-0-NA.yml,0,1,2,0.5,1,27,1,8,0,0,0,0,0,0
 OP-STC-Allo-PCTB-8CupGridCloseFar-G2CloseRightFar-NA-0-NA.yml,0,1,2,0.5,1,37,1,8,0,0,0,0,0,0
 OP-STC-Allo-PCTB-8CupGridCloseFar-G2FarLeftClose-NA-0-NA.yml,0,1,2,-1.5,1,37,1,8,0,0,1,0,0,0
@@ -504,7 +504,7 @@ OP-STC-Allo-PCTB-8CupGridCloseMid-G1CloseLeftFar-NA-0-NA.yml,0,1,1,-0.5,1,34,1,8
 OP-STC-Allo-PCTB-8CupGridCloseMid-G1CloseRightClose-NA-0-NA.yml,0,1,1,0.5,1,27,1,8,0,0,0,0,0,0
 OP-STC-Allo-PCTB-8CupGridCloseMid-G1CloseRightFar-NA-0-NA.yml,0,1,1,0.5,1,32,1,8,0,0,0,0,0,0
 OP-STC-Allo-PCTB-8CupGridCloseMid-G1FarLeftClose-NA-0-NA.yml,0,1,1,-1.5,1,37,1,8,0,0,0,0,0,0
-OP-STC-Allo-PCTB-8CupGridCloseMid-G1FarLeftFar-NA-0-NA.yml,0,1,1,-1.5,1,42,2,8,1,0,0,0,0,0
+OP-STC-Allo-PCTB-8CupGridCloseMid-G1FarLeftFar-NA-0-NA.yml,0,1,1,-1.5,1,42,2,8,0,0,0,0,0,0
 OP-STC-Allo-PCTB-8CupGridCloseMid-G1FarRightClose-NA-0-NA.yml,0,1,1,1.5,1,35,1,8,0,0,0,0,0,0
 OP-STC-Allo-PCTB-8CupGridCloseMid-G1FarRightFar-NA-0-NA.yml,0,1,1,1.5,1,40,2,8,0,0,0,0,0,0
 OP-STC-Allo-PCTB-8CupGridCloseMid-G2CloseLeftClose-NA-0-NA.yml,0,1,2,-0.5,1,29,1,8,0,0,0,0,0,0
