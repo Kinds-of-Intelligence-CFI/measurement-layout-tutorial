@@ -84,4 +84,4 @@ evaluation techniques.
 
 # Requirements
 
-Participants will require a laptop with a browser and a WiFi connection to access the Google Colaboratory notebooks in this repository. Participants can save their scripts to their own Google Drive or fork this repository and commit changes there.
+Participants will require a laptop with a browser and a WiFi connection to access the Google Colaboratory notebooks in this repository. Participants can save their notebooks to their own Google Drive.
