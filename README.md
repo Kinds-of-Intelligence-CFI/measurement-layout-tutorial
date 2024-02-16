@@ -78,10 +78,23 @@ This final session is dedicated to group reflection and discussion. Participants
 - What can be done in scenarios where domain knowledge is limited? Can we compensate to ensure an incomplete model is still helpful?
 - How can these limitations be addressed?
 
-
 This session is also a natural point for participants to ask any remaining questions or share any other thoughts about the approach and framework. We hope to incite and foster vibrant discussions about the potential of this evaluation schema and its application to rich, real-world domains. We will also use this time to encourage future opportunities for collaboration with interested participants on developing both measurement layouts and other capability-oriented
 evaluation techniques.
 
 # Requirements
 
 Participants will require a laptop with a browser and a WiFi connection to access the Google Colaboratory notebooks in this repository. Participants can save their notebooks to their own Google Drive.
+
+# Reference
+
+If you build on top of this tutorial and want to cite it, please use the following bib entry:
+
+```
+@misc{mlayoutstutorial2024,
+  title =        "Measurement Layouts for Capability-Oriented AI Evaluation",
+  author =       "J. Burden, L. Cheke, J. Hernández-Orallo, M. Tešić, K. Voudouris",
+  booktitle =    "AAAI: Tutorial",
+  year =         "2024",
+  abstract =     "Recent years have witnessed an explosion in the general-purpose capabilities of AI systems. These advancements pose unique challenges to how AI systems should be evaluated. Estimating capabilities, rather than performance, is necessary for systems that are not built for specific tasks, but for general-purpose use, and to anticipate the fit of an AI system for situations and occupations requiring particular cognitive skill levels to cope with the expected demands. The techniques and methodologies from the cognitive sciences are more appropriate than task-oriented benchmarks for this evaluation of capability, but require a common language and toolkit to facilitate cross-disciplinary collaboration. One promising approach in this regard is the Measurement Layouts framework, which leverages large, hierarchical Bayesian Networks to infer the capabilities of AI systems. We propose a half-day lab to introduce AAAI-24 participants to the Measurement Layouts framework, demonstrate the powerful evaluation inferences we can make for different kinds of AI systems (RL agents, language models, etc.) and support building a diverse community of interdisciplinary researchers interested in improving AI evaluation."
+}
+```
